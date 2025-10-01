@@ -1,2 +1,4 @@
 # Calculator
-First app of mine 
+My First project in Git
+<br>
+It performs basic calculations
